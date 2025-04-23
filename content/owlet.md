@@ -1,8 +1,8 @@
 ---
-title: "Cone tracing cellular automata GI"
+title: "Owlet"
 date: 2024-04-25T18:35:46+05:30
 draft: false
-description: "Cone tracing cellular automata GI"
+description: "Owlet"
 layout: "single"
 # galleryImages:
 #  - src: https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg
@@ -19,12 +19,5 @@ layout: "single"
 toc: 
 ---
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
 
-
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
-
-
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
-
-TEst
+Custom tech engine project that ended up with an RTS game during Block D in Year 2 at BUAS. The engine is made in C++ and DirectX12 with hardware accelerated ray traced shadows using DXR. Worked on the material system, grass system, particle system, procedural sky and post processing effects tools and editor for all the systems mentioned. 

@@ -1,8 +1,8 @@
 ---
-title: "Cone tracing cellular automata GI"
+title: "rVox Engine"
 date: 2024-04-25T18:35:46+05:30
 draft: false
-description: "Cone tracing cellular automata GI"
+description: "rVox Engine"
 layout: "single"
 # galleryImages:
 #  - src: https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg
@@ -19,12 +19,5 @@ layout: "single"
 toc: 
 ---
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
 
-
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
-
-
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
-
-TEst
+Custom voxel engine project made during Block B in Year 2 at BUAS. The engine is made in C++ and OpenGL with OpenCL for the rendering/compute pipeline. Lighting is being calculated per voxel using software ray tracing inside a OpenCL kernel.

@@ -1,8 +1,8 @@
 ---
-title: "Cone tracing cellular automata GI"
+title: "Cellular Automata Global Illumination"
 date: 2024-04-25T18:35:46+05:30
 draft: false
-description: "Cone tracing cellular automata GI"
+description: "Cellular Automata Global Illumination"
 layout: "single"
 # galleryImages:
 #  - src: https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg
@@ -19,12 +19,4 @@ layout: "single"
 toc: 
 ---
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
-
-
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
-
-
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
-
-TEst
+This is an ambitious project I like to spend my free time on in order to see how much I can push this technology.

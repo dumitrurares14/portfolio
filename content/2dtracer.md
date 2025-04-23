@@ -1,8 +1,8 @@
 ---
-title: "Cone tracing cellular automata GI"
+title: "2D Ray Tracer"
 date: 2024-04-25T18:35:46+05:30
 draft: false
-description: "Cone tracing cellular automata GI"
+description: "2D Ray Tracer"
 layout: "single"
 # galleryImages:
 #  - src: https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg
@@ -19,12 +19,17 @@ layout: "single"
 toc: 
 ---
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
 
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
+This 2D Ray Tracer was developed as a course project at BUAS during Block C of Year 1. The entire rendering pipeline runs on the CPU in C++. To demonstrate the dynamic lighting capabilities, I made a small snake spinoff on top of the engine. 
 
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
+## Goals and Motivations
 
-TEst
+#### Technical Goals:
+
+- Explore fundamental ray-tracing concepts such as intersection checks, shadows, lighting.
+- Gain experience on CPU based renderers while improving C++ skills.
+- Get a basic understanding of optimization techniques in ray tracing
+
+#### Challenges and solutions
