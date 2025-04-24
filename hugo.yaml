@@ -29,17 +29,17 @@ markup:
       unsafe: true
 
 Menus:
-  main:
-    - identifier: blog
-      name: #Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
-    - identifier: gallery
-      name: #Gallery
-      title: Blog posts
-      url: /cone-tracing-cellular-automata
-      weight: 2
+  # main:
+  #   - identifier: blog
+  #     name: #Blog
+  #     title: Blog posts
+  #     url: /blogs
+  #     weight: 1
+  #   - identifier: gallery
+  #     name: #Gallery
+  #     title: Blog posts
+  #     url: /cone-tracing-cellular-automata
+  #     weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -81,8 +81,8 @@ params:
   animate: true
 
   theme:
-    # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    disableThemeToggle: true
+    defaultTheme: "dark" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -468,6 +468,7 @@ params:
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
     articleMonth: "January 2006"
+    articleInterval: "January 2006 - February 2007"
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
