@@ -19,12 +19,97 @@ layout: "single"
 toc: 
 ---
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
+
+<center>
+
+![CTCAGI](/images/projects/ctcagi/ctcagi.png)
+
+</center>
+
+---
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; align-items: flex-start;">
+
+  <div style="flex: 1 1 300px; min-width: 280px; text-align: center;">
+    <h3>Overview</h3>
+    <div style="display: inline-block; text-align: left;">
+      <table>
+        <tr>
+          <td><strong>Roles</strong></td>
+          <td>
+            Graphics programmer<br>
+          </td>
+        </tr>
+        <tr><td><strong>Duration</strong></td><td>~4 week</td></tr>
+        <tr><td><strong>Platform</strong></td><td>Windows</td></tr>
+        <tr><td><strong>Engine</strong></td><td>Custom-built during Block C in Year 2 as a team project</td></tr>
+        <tr><td><strong>Team size</strong></td><td>Solo</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div style="flex: 1 1 300px; min-width: 280px; text-align: center;">
+    <h3>Tools & Technologies</h3>
+    <div style="display: inline-block; text-align: left;">
+      <table>
+        <tr><td><strong>Languages & APIs</strong></td><td>C++, OpenGL, GLSL</td></tr>
+        <tr><td><strong>Tools</strong></td><td>RenderDoc, Nsight Graphics</td></tr>
+        <tr><td><strong>Workflow</strong></td><td>Git/GitHub</td></tr>
+        <tr><td><strong>Libraries</strong></td><td>ImGUI, MagicaVoxel loader</td></tr>
+      </table>
+    </div>
+  </div>
+
+</div>
 
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
+---
+
+## Project Overview
+
+During Block C in year 2 at Breda University of Applied Sciences I had the chance to work in a team on a voxel project. Since we were working with voxels it was a great opportunity for me to dive into global illumination research and prototypes and decided on trying cone tracing guided by the <a href="https://research.nvidia.com/sites/default/files/publications/GIVoxels-pg2011-authors.pdf">**famous nvidia paper from 2011**</a>.
+
+---
+
+## Goals and motivations
+
+- Getting a better understanding of global illumination principles
+- First time trying the interesting idea of cellular automata for light propagation
+- Extra: I love the slow propagation of light volumes
+
+---
+
+## Biggest obstacles
+
+- Overcoming workflow of cone tracing for the first time
+- Hiding light leaking problems, especially when lights are close to walls
+- Balancing light propagation speed and performance
+
+---
+
+## Highlights
+
+- Cellular automata is used for direct light propagation
+- Cone tracing for indirect calculation and direct sampling for volumetric effects as well as for specular
+
+<center>
+
+![CTCAGI](/images/projects/ctcagi/p.png)
+
+</center>
+
+---
 
 
-Stretch goal explored by me during the OpenGL voxel team project. I presented the explored technique at GPC 2024 with a small talk. Cellular automata is used for direct light propagation and cone tracing for indirect calculation and direct sampling. Volumetric and specular reflections are done also with cone tracing.
+## Presented at GPC 2024
 
-TEst
+<div style="position: relative; padding-top: 56.25%; /* 16:9 ratio */ height: 0; overflow: hidden; border-radius: 1rem; margin: 2rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/MONs5wMy6Rw?start=1213"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 1rem;">
+  </iframe>
+</div>
+
+---

@@ -27,7 +27,7 @@ toc:
 
 ## Jolt Physics integration
 
-- I implemented Jolt Physics library in our engine for as a solution for collision and ray casting.
+- I implemented Jolt Physics library in our engine as a solution for collision and ray casting.
 
 ![Blightspire](/images/projects/blightspire/jolt.gif)
 

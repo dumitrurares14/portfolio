@@ -1,4 +1,4 @@
-baseURL: "https://dumitrurares14.github.io/"
+baseURL: "https://www.rares-dumitru.dev/"
 languageCode: "en-us"
 title: "Rareș Dumitru"
 theme: hugo-profile
@@ -255,13 +255,20 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Bachelor Creative Media and Game Technologies"
+      - title: "Bachelor"
         school:
           name: "Breda University of Applied sciences"
           url: "https://www.buas.nl/en"
         date: "2022 - 2026"
         #GPA: "3.9 out of 5.0"
-        
+        content: |-
+          Specialization:
+          - Creative Media and Game Technologies
+
+          Focused on:
+          - Graphics Programming
+          - Game Engine Development
+          - Game Development
         featuredLink:
           enable: false
           name: "My academic record"
@@ -270,6 +277,7 @@ params:
         school:
           name: "Grigore Antipa College of Sciences Brașov"
           url: "https://csantipa.ro/new/"
+        date: "2018 - 2022"
         GPA: "8.85 out of 10"
         content: |-
           Specialization:
