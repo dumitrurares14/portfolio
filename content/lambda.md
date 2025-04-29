@@ -20,5 +20,96 @@ toc:
 ---
 
 
-Custom engine project made during Block A in Year 2 at BUAS. The engine is made in C++ with support for scripting in Lua. The engine supports serialization, a CPU based particle system, resource manager, GLTF loading, entity component system integration using entity, complex scene hierarchies, and much more.
+<center>
+
+![lambda](/images/projects/lambda/lambda.png)
+
+</center>
+
+---
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; align-items: flex-start;">
+
+  <div style="flex: 1 1 300px; min-width: 280px; text-align: center;">
+    <h3>Overview</h3>
+    <div style="display: inline-block; text-align: left;">
+      <table>
+        <tr>
+          <td><strong>Roles</strong></td>
+          <td>
+            Engine programmer<br>
+          </td>
+        </tr>
+        <tr><td><strong>Duration</strong></td><td>8 week</td></tr>
+        <tr><td><strong>Platform</strong></td><td>Windows</td></tr>
+        <tr><td><strong>Engine</strong></td><td>Custom-built</td></tr>
+        <tr><td><strong>Team size</strong></td><td>Solo</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div style="flex: 1 1 300px; min-width: 280px; text-align: center;">
+    <h3>Tools & Technologies</h3>
+    <div style="display: inline-block; text-align: left;">
+      <table>
+        <tr><td><strong>Languages & APIs</strong></td><td>C++, Lua</td></tr>
+        <tr><td><strong>Tools</strong></td><td>Visual studio</td></tr>
+        <tr><td><strong>Workflow</strong></td><td>Git/GitHub</td></tr>
+        <tr><td><strong>Libraries</strong></td><td>ImGUI, Entt, TinyGLTF, SolLua, Cereal, GLM</td></tr>
+      </table>
+    </div>
+  </div>
+
+</div>
+
+
+---
+
+## Project Overview
+
+Lambda engine is my first in-depth dive at the engine architecture world, where I tried to develop and understand how some of the most important features of an engine work under the hood. Following some design patterns from popular engines such as Unity, I also tried to leave my own touch on certain aspects.
+
+---
+
+## Goals and motivations
+
+- Understand the important features of an engine:
+    - How to use an ECS
+    - How to create a simple resource manager
+    - How to import gltf files
+    - How to handle complex hierarchies
+    - How to create a simple cpuu based particle system
+    - How to implement a scripting language
+    - How to handle hot reloading
+- Have fun with creating tools and UIs for all the systems
+
+
+---
+
+## Biggest obstacles
+
+- Handling scripting with Lua and play, pause and stop scripting logic
+- Grasping resource manager concepts for the first time
+- Getting a better understanding of the gltf spec sheet
+
+---
+
+## Highlights
+
+- Full engine editor using ImGui
+- Support for scripting with Lua
+- Component based architecture, facilitating entt ECS
+- Custom resource manager
+- Scene serialization
+- CPU based particle system
+- Game start, stop, and pause
+- Custom in engine console for logging errors, warnings and messages
+
+<center>
+
+![lambda](/images/projects/lambda/run.gif)
+
+</center>
+
+---
+
 
