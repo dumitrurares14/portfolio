@@ -1,6 +1,8 @@
 ---
 title: "2D Ray Tracer"
-date: 2024-04-25T18:35:46+05:30
+date: 2023-04-25T18:35:46+05:30
+params:
+  dateLast: June 2023
 draft: false
 description: "2D Ray Tracer"
 layout: "single"

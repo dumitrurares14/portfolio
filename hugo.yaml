@@ -327,6 +327,9 @@ params:
           - "Custom Engine"
           - "Graphics"
           - "Gameplay"
+        links:
+          - icon: fab fa-youtube
+            url: https://youtu.be/vs3-Rpgh0wQ
 
       - title: Cellular Automata Global Illumination
         content: Solving global illumination using only cellular automata inside compute shaders.
@@ -370,6 +373,8 @@ params:
         links:
           - icon: fab fa-youtube
             url: https://youtu.be/dGsASNUbWmw
+          - icon: fab fa-itch-io
+            url: https://buas.itch.io/owlet
       
       - title: rVox Engine
         content: A custom voxel renderer made entirely in OpenCL compute kernels and C++ aiming at stylized per voxel lighting effects.
@@ -407,6 +412,11 @@ params:
           - "Team Project"
           - "Unreal Engine"
           - "Gameplay"
+        links:
+          - icon: fab fa-youtube
+            url: https://youtu.be/ShcfPYLNUL8
+          - icon: fab fa-itch-io
+            url: https://mesibby.itch.io/mowdown
       
       - title: 2D Ray Tracer
         content: A CPU based 2D ray tracer made in C++ that supports direct lighting and shadows against basic shapes.

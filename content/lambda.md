@@ -1,6 +1,8 @@
 ---
 title: "Lambda Engine"
-date: 2024-04-25T18:35:46+05:30
+date: 2023-11-25T18:35:46+05:30
+params:
+  dateLast: January 2024
 draft: false
 description: "Lambda Engine"
 layout: "single"
