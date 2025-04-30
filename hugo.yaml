@@ -60,7 +60,7 @@ Menus:
 
 params:
   title: "Rares Dumitru | Graphics Programmer"
-  description: Text about my cool site
+  description: A self-motivated student passionate about game development with a drive towards research.A self-motivated student passionate about game development with a drive towards research.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/me.png"
 
@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/files/Rares Dumitru resume.pdf"
+      url: "/files/Rares Dumitru - Resume.pdf"
       download: true
       newPage: false
     socialLinks:

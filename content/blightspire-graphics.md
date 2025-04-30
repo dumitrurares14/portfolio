@@ -79,7 +79,7 @@ toc:
 
 - Created a vulkan debug line rendering pipeline.
 - We can push 3D lines positions towards this pipeline to render them.
-- Jolt Physics pushes it's debug lines in our debug renderer too, allowing for collision visualizations, ray casts etc.
+- Jolt Physics pushes its debug lines in our debug renderer too, allowing for collision visualizations, ray casts etc.
 
 ![Blightspire](/images/projects/blightspire/lines.png)
 

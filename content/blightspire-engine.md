@@ -72,7 +72,7 @@ toc:
 
 ## Quake style movement
 
-- I implemented a fast paced movement style similar to the one in quake and guided by <a href="https://github.com/id-Software/Quake/tree/master/"><strong>their original code base</strong></a>
+- I implemented a fast paced movement style similar to the one in Quake and guided by <a href="https://github.com/id-Software/Quake/tree/master/"><strong>their original code base</strong></a>
 - Features
   - Sliding
   - Jumping and double jumping
