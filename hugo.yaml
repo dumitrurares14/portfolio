@@ -175,13 +175,14 @@ params:
       title: "Here are a few technologies I am most familiar with:"
       items:
         - "C++"
+        - "Git/GitHub/Perforce"
         - "GLSL/HLSL"
+        - "Visual Studio/Clion"
         - "Vulkan"
-        - "OpenGL"
-        - "Git/GitHub"
-        - "Perforce"
         - "SCRUM"
+        - "OpenGL"
         - "RenderDoc"
+        - "Unreal Engine"
         - "Nvidia Nsight"
 
   # Experience
