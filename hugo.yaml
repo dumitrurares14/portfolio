@@ -145,8 +145,8 @@ params:
       enable: true
       name: "Resume"
       url: "/files/Rares Dumitru - Resume.pdf"
-      download: true
-      newPage: false
+      download: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
