@@ -76,16 +76,16 @@ This 2D Ray Tracer was developed as a course project at BUAS during Block C of Y
 
 ## Goals and motivations
 
-- Explore fundamental ray-tracing concepts such as intersection checks, shadows, lighting.
-- Gain experience on CPU based renderers while improving C++ skills.
-- Get a basic understanding of optimization techniques in ray tracing
+- **Explore fundamental ray-tracing concepts** such as intersection checks, shadows, lighting.
+- Gain experience on **CPU based renderers** while **improving C++** skills.
+- Get a basic understanding of **optimization techniques** in ray tracing
 
 ---
 
 ## Biggest obstacles
 
-- Grasping ray tracing concepts for the first time
-- Optimizing such project to run on the CPU
+- Grasping **ray tracing** concepts for the **first time**
+- **Optimizing** such project to run on the CPU
 
 ---
 

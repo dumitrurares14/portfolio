@@ -72,17 +72,17 @@ During Block C in year 2 at Breda University of Applied Sciences I had the chanc
 
 ## Goals and motivations
 
-- Getting a better understanding of global illumination principles
-- First time trying the interesting idea of cellular automata for light propagation
-- Extra: I love the slow propagation of light volumes
+- Getting a **better understanding of global illumination** principles
+- First time trying the interesting idea of **cellular automata for light propagation**
+- Extra: I **love the slow propagation** of light volumes
 
 ---
 
 ## Biggest obstacles
 
-- Overcoming workflow of cone tracing for the first time
-- Hiding light leaking problems, especially when lights are close to walls
-- Balancing light propagation speed and performance
+- Overcoming workflow of **cone tracing** for the first time
+- Hiding **light leaking** problems, especially when lights are close to walls
+- Balancing light propagation speed and **performance**
 
 ---
 

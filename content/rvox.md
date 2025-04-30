@@ -75,9 +75,9 @@ rVox is my first proper dive into the world of ray marching and voxels. Over 8 w
 
 ## Goals and motivations
 
-- Getting a better understanding of ray marching and voxel rendering
-- Learning to handle compute kernels. I used OpenCL as a personal choice.
-- Understanding how to get per voxel lighting for:
+- Getting a better understanding of **ray marching** and **voxel rendering**
+- **Learning to handle compute** kernels. I used OpenCL as a personal choice
+- Understanding how to get **per voxel lighting** for:
     - Cool blocky results
     - Noise free
     - Faster calculations
@@ -86,9 +86,9 @@ rVox is my first proper dive into the world of ray marching and voxels. Over 8 w
 
 ## Biggest obstacles
 
-- Using and debugging OpenCL
-- Grasping the concept of ray marching
-- Achieving per voxel lighting look
+- Using and **debugging OpenCL**
+- Grasping the concept of **ray marching**
+- Achieving **per voxel lighting** look
 
 ---
 
