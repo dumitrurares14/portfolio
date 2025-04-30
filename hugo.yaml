@@ -175,7 +175,7 @@ params:
       title: "Here are a few technologies I am most familiar with:"
       items:
         - "C++"
-        - "Git/GitHub/Perforce"
+        - "GitHub/Perforce"
         - "GLSL/HLSL"
         - "Visual Studio/Clion"
         - "Vulkan"
