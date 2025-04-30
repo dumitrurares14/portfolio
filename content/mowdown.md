@@ -54,7 +54,7 @@ toc:
       <table>
         <tr><td><strong>Languages & APIs</strong></td><td>Blueprints, C++</td></tr>
         <tr><td><strong>Tools</strong></td><td>Unreal engine</td></tr>
-        <tr><td><strong>Workflow</strong></td><td>Perforce</td></tr>
+        <tr><td><strong>Workflow</strong></td><td>Perforce, Miro, SCRUM</td></tr>
       </table>
     </div>
   </div>

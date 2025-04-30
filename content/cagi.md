@@ -83,7 +83,7 @@ CAGI (Cellular Automata Global Illumination) is a technique that is aiming at co
 
 ## Biggest obstacles
 
-- Memory management since cellular automata ideally requires dense grids in order to compute
+- Managing memory efficiently since cellular automata ideally requires dense grids in order to compute
 - Managing light directionality and shadow propagation
 - Balancing light propagation speed and performance
 

@@ -52,7 +52,7 @@ toc:
       <table>
         <tr><td><strong>Languages & APIs</strong></td><td>C++, Vulkan API, GLSL, Wren, CMake</td></tr>
         <tr><td><strong>Tools</strong></td><td>RenderDoc, Nsight Graphics, Tracy</td></tr>
-        <tr><td><strong>Workflow</strong></td><td>Git/GitHub, SCRUM methodologies</td></tr>
+        <tr><td><strong>Workflow</strong></td><td>Git/GitHub, Codecks, Miro, SCRUM</td></tr>
         <tr><td><strong>Libraries</strong></td><td>Entt, JoltPhysics, Google analytics, Steamworks, Fmod, ImGUI</td></tr>
       </table>
     </div>

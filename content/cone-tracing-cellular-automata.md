@@ -39,7 +39,7 @@ toc:
             Graphics programmer<br>
           </td>
         </tr>
-        <tr><td><strong>Duration</strong></td><td>~4 week</td></tr>
+        <tr><td><strong>Duration</strong></td><td>~4 weeks</td></tr>
         <tr><td><strong>Platform</strong></td><td>Windows</td></tr>
         <tr><td><strong>Engine</strong></td><td>Custom-built during Block C in Year 2 as a team project</td></tr>
         <tr><td><strong>Team size</strong></td><td>Solo</td></tr>

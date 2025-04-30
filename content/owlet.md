@@ -54,7 +54,7 @@ toc:
       <table>
         <tr><td><strong>Languages & APIs</strong></td><td>C++, DirectX12, HLSL</td></tr>
         <tr><td><strong>Tools</strong></td><td>RenderDoc, Nsight Graphics</td></tr>
-        <tr><td><strong>Workflow</strong></td><td>Git/GitHub, Perforce</td></tr>
+        <tr><td><strong>Workflow</strong></td><td>Git/GitHub, Perforce, Miro, SCRUM</td></tr>
         <tr><td><strong>Libraries</strong></td><td>ImGUI, Entt</td></tr>
       </table>
     </div>
@@ -67,7 +67,7 @@ toc:
 
 ## Project Overview
 
-Owlet was a real time strategy game developed together with a custom engine called PEPI. I was part of the graphics programming crew of the team (2 people in total) and my contributions were not only important for the game's look, but for the development tools also, reaching high expectations for our artists demands.
+Owlet was a real time strategy game developed together with a custom engine called PEPI. I was part of the graphics programming crew of the team (2 people in total) and my contributions were not only important for the game's look, but for the development tools also, reaching high expectations for our artists' demands.
 
 ---
 

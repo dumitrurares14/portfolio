@@ -41,7 +41,7 @@ toc:
             Gameplay programmer
           </td>
         </tr>
-        <tr><td><strong>Duration</strong></td><td>~8 week</td></tr>
+        <tr><td><strong>Duration</strong></td><td>~8 weeks</td></tr>
         <tr><td><strong>Platform</strong></td><td>Windows</td></tr>
         <tr><td><strong>Engine</strong></td><td>Custom engine template - <a href="https://github.com/jbikker/tmpl8">Jacco Bikker</a></td></tr>
         <tr><td><strong>Team size</strong></td><td>Solo</td></tr>
@@ -98,7 +98,7 @@ This 2D Ray Tracer was developed as a course project at BUAS during Block C of Y
 - Various optimizations tricks
 - Denoising with last frame information
 - Temporal accumulation denoise
-- Snake game to showoff the rendering capabilities
+- Snake game to show off the rendering capabilities
 
 <center>
 <video controls width="100%" >

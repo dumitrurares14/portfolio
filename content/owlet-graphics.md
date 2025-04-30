@@ -80,7 +80,7 @@ Note: Showcase video is from mid development; Depth sorting was not implemented 
 ## Material system
 
 - Engine and tools integration of our PBR renderer
-- Real-time hotreloading textures
+- Real-time hot reloading textures for materials
 - Textures preview
 
 <center>

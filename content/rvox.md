@@ -42,7 +42,7 @@ toc:
             Engine programmer<br>
           </td>
         </tr>
-        <tr><td><strong>Duration</strong></td><td>8 week</td></tr>
+        <tr><td><strong>Duration</strong></td><td>8 weeks</td></tr>
         <tr><td><strong>Platform</strong></td><td>Windows</td></tr>
         <tr><td><strong>Engine</strong></td><td>Custom-built</td></tr>
         <tr><td><strong>Team size</strong></td><td>Solo</td></tr>
@@ -77,7 +77,7 @@ rVox is my first proper dive into the world of ray marching and voxels. Over 8 w
 
 - Getting a better understanding of ray marching and voxel rendering
 - Learning to handle compute kernels. I used OpenCL as a personal choice.
-- Understand how to get per voxel lighting for:
+- Understanding how to get per voxel lighting for:
     - Cool blocky results
     - Noise free
     - Faster calculations

@@ -41,7 +41,7 @@ toc:
             Engine programmer<br>
           </td>
         </tr>
-        <tr><td><strong>Duration</strong></td><td>8 week</td></tr>
+        <tr><td><strong>Duration</strong></td><td>8 weeks</td></tr>
         <tr><td><strong>Platform</strong></td><td>Windows</td></tr>
         <tr><td><strong>Engine</strong></td><td>Custom-built</td></tr>
         <tr><td><strong>Team size</strong></td><td>Solo</td></tr>
@@ -79,7 +79,7 @@ Lambda engine is my first in-depth dive at the engine architecture world, where 
     - How to create a simple resource manager
     - How to import gltf files
     - How to handle complex hierarchies
-    - How to create a simple cpuu based particle system
+    - How to create a simple CPU based particle system
     - How to implement a scripting language
     - How to handle hot reloading
 - Have fun with creating tools and UIs for all the systems
@@ -91,7 +91,7 @@ Lambda engine is my first in-depth dive at the engine architecture world, where 
 
 - Handling scripting with Lua and play, pause and stop scripting logic
 - Grasping resource manager concepts for the first time
-- Getting a better understanding of the gltf spec sheet
+- Getting a better understanding of the GLTF spec sheet
 
 ---
 
