@@ -149,9 +149,11 @@ params:
       newPage: true
     socialLinks:
       fontAwesomeIcons:
+        - icon: fas fa-envelope
+          url: mailto:contact@rares-dumitru.dev
+        - icon: fab fa-linkedin
         - icon: fab fa-github
           url: https://github.com/dumitrurares14
-        - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/dumitrurares14/
         - icon: fab fa-discord
           url: https://discordapp.com/users/277389778155208704        
@@ -438,8 +440,9 @@ params:
     enable: true
     # title: "Custom Name"
     content: I am currently looking for a job or internship in the game or graphics research industry, if you are interested in my work feel free to contact me.
-    btnName: Mail me
+    btnName: contact@rares-dumitru.dev
     btnLink: mailto:contact@rares-dumitru.dev
+    email: contact@rares-dumitru.dev
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'

@@ -111,4 +111,3 @@ toc:
 - [GitHub Repository](https://github.com/BredaUniversityGames/Y2024-25-PR-BB)
 - [Beta Trailer](https://youtu.be/vs3-Rpgh0wQ)
 - [Steam Page (Coming soon)]()
-

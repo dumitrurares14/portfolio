@@ -112,6 +112,6 @@ Lambda engine is my first in-depth dive at the engine architecture world, where 
 
 </center>
 
----
+
 
 
