@@ -60,7 +60,7 @@ Menus:
 
 params:
   title: "Rares Dumitru | Graphics Programmer"
-  description: A self-motivated student passionate about game development with a drive towards research.A self-motivated student passionate about game development with a drive towards research.
+  description: A self-motivated student passionate about game development with a drive towards graphics research.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/me.png"
 
