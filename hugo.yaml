@@ -157,8 +157,8 @@ params:
           url: https://www.linkedin.com/in/dumitrurares14/
         - icon: fab fa-discord
           url: https://discordapp.com/users/277389778155208704        
-        - icon: fab fa-steam
-          url: https://steamcommunity.com/id/rares-steam/        
+        # - icon: fab fa-steam
+        #   url: https://steamcommunity.com/id/rares-steam/        
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -176,13 +176,13 @@ params:
       enable: true
       title: "Here are a few technologies I am most familiar with:"
       items:
-        - "C++"
-        - "GitHub/Perforce"
         - "GLSL/HLSL"
-        - "Visual Studio/Clion"
+        - "GitHub/Perforce"
         - "Vulkan"
-        - "SCRUM"
+        - "Visual Studio/Clion"
         - "OpenGL"
+        - "SCRUM"
+        - "C++"
         - "RenderDoc"
         - "Unreal Engine"
         - "Nvidia Nsight"
@@ -327,7 +327,7 @@ params:
           link: /blightspire
         badges:
           - "Team Project"         
-          - "Custom Engine"
+          - "Custom Tech"
           - "Graphics"
           - "Tools"
           - "Gameplay"
@@ -344,7 +344,6 @@ params:
         badges:
           - "Solo Project"
           - "Global Illumination"
-          - "Graphics"
         links:
           - icon: fab fa-youtube
             url: https://www.youtube.com/watch?v=V0-yVUaaWog
@@ -358,7 +357,6 @@ params:
         badges:
           - "Solo Project"
           - "Global Illumination"
-          - "Graphics"
         links:
           - icon: fab fa-youtube
             url: https://www.youtube.com/watch?v=MONs5wMy6Rw&t=1272s
@@ -371,7 +369,7 @@ params:
           link: /owlet
         badges:
           - "Team Project"
-          - "Custom Engine"
+          - "Custom Tech"
           - "Graphics"
           - "Tools"
         links:
@@ -388,7 +386,7 @@ params:
           link: /rvox
         badges:
           - "Solo Project"
-          - "Custom Engine"
+          - "Custom Tech"
           - "Graphics"
         links:
           - icon: fa-solid fa-newspaper
@@ -402,7 +400,7 @@ params:
           link: /lambda
         badges:
           - "Solo Project"
-          - "Custom Engine"
+          - "Custom Tech"
           - "Engine development"
           - "Tools"
 
@@ -431,15 +429,15 @@ params:
           link: /2dtracer
         badges:
           - "Solo Project"
+          - "Custom Tech"
           - "Ray Tracing"
-          - "Graphics"
         
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
-    content: I am currently looking for a job or internship in the game or graphics research industry, if you are interested in my work feel free to contact me.
+    content: I am currently **looking for a job or internship** in the **game or graphics research industry**, if you are interested in my work feel free to contact me.
     btnName: contact@rares-dumitru.dev
     btnLink: mailto:contact@rares-dumitru.dev
     email: contact@rares-dumitru.dev
